@@ -1,4 +1,4 @@
-# ConnectHub:Your Social Connection Center
+# ConnectHub: Your Social Connection Center
 
 
 ### Pages
