@@ -40,7 +40,7 @@ Database: `Sqlite3`
    - Clone the repo to your local system
    ```git
    git clone https://github.com/anjashaa/ConnectHub.git
-   cd socials
+   cd ConnectHub_Application
    ```
    Make sure you have python installed on your system.
 2. Create a Virtual Environment for the Project
